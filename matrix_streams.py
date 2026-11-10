@@ -19,3 +19,5 @@ try:
         time.sleep(0.1)
 except KeyboardInterrupt:
     sys.exit()
+
+# creates a matrix stream in terminal interrupted with the exception
